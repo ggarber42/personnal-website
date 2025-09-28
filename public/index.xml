@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 14:40:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2025 14:40:00 -0300</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Console Wars</title>
-      <link>http://localhost:1313/post/embed-test/</link>
+      <link>https://example.com/post/embed-test/</link>
       <pubDate>Sun, 28 Sep 2025 14:40:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/post/embed-test/</guid>
+      <guid>https://example.com/post/embed-test/</guid>
       
         <description>&lt;p&gt;Here’s my Tableau viz:&lt;/p&gt;
 &lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1759096613685&#39; style=&#39;position: relative&#39;&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Guide to Mermaid Diagrams in Hugo</title>
-      <link>http://localhost:1313/post/mermaid-test/</link>
+      <link>https://example.com/post/mermaid-test/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/mermaid-test/</guid>
+      <guid>https://example.com/post/mermaid-test/</guid>
       
         <description>Guide to Mermaid Diagrams in Hugo</description>
       
