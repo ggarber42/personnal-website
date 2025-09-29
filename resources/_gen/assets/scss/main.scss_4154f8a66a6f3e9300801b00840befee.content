@@ -300,8 +300,7 @@ body {
   margin: 0 1em;
 }
 .sidebar__introduction-profileimage {
-  width: 127px;
-  height: 127px;
+  height: 160px;
   border-radius: 50%;
 }
 .sidebar__introduction-title {
@@ -312,7 +311,7 @@ body {
   margin: 1em;
 }
 .sidebar__introduction-title a {
-  font-size: 3.2rem;
+  font-size: 2rem;
 }
 .sidebar__introduction-title h1 {
   margin: 0;

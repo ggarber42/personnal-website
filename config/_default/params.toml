@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Guilherme Garber"
+author = "Guilherme Garber"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "Data analyst"
+profilePicture = "images/profile_linkedin_bw.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -41,7 +41,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 # hidesidebar = true
 
 # Sidebar/Content Ratio
-# contentratio = 0.6
+contentratio = 0.8
 
 [simpleAnalytics]
 # enable = true
@@ -69,14 +69,9 @@ title = "GitHub"
 url = "https://github.com/lxndrblz/anatole/"
 
 [[socialIcons]]
-icon = "fa-brands fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
-
-[[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "mailto:mail@example.com"
 
 [mermaid]
-# enable = true
+enable = true
