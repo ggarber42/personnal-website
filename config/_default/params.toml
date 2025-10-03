@@ -2,7 +2,7 @@
 title = "Guilherme Garber"
 author = "Guilherme Garber"
 #copyright = "2020-2021"
-description = "Data analyst"
+description = "Programming and data stuff"
 profilePicture = "images/profile_linkedin_bw.png"
 keywords = ""
 favicon = "favicons/"
@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form

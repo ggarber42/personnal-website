@@ -257,7 +257,7 @@ body {
 }
 @media screen and (min-width: 961px) {
   .sidebar {
-    z-index: 2;
+    z-index: 10;
     position: fixed;
     height: 100%;
     margin-top: 0;

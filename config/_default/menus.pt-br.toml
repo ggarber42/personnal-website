@@ -1,0 +1,30 @@
+[[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+[[main]]
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
+
+[[main]]
+  name = "Projetos"
+  weight = 200
+  identifier = "projetos"
+  url = "/projetos/"
+
+[[main]]
+  name = "Sobre"
+  weight = 400
+  identifier = "sobre"
+  url = "/sobre/"
+
+
+[[main]]
+  name = "Certificados"
+  weight = 520
+  identifier = "certificados"
+  url = "/certificados/"

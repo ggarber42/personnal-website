@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Englishes on My blog</title>
+    <title>My blog</title>
     <link>http://localhost:1313/english/</link>
-    <description>Recent content in Englishes on My blog</description>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Sep 2025 14:40:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
@@ -66,6 +66,28 @@
       <guid>http://localhost:1313/english/post/mermaid-test/</guid>
       
         <description>Guide to Mermaid Diagrams in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/english/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/english/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/projects/</guid>
+      
+        <description></description>
       
     </item>
     

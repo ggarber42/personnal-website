@@ -1,0 +1,6 @@
+@use 'modules/color_theme' as color;
+@use 'modules/config' as conf;
+
+h1#hello ~ p > a {
+    text-decoration: underline;
+}
