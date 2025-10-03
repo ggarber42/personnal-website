@@ -6,172 +6,48 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 14:40:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Console Wars</title>
-      <link>http://localhost:1313/english/post/embed-test/</link>
-      <pubDate>Sun, 28 Sep 2025 14:40:00 -0300</pubDate>
-      
-      <guid>http://localhost:1313/english/post/embed-test/</guid>
-      
-        <description>&lt;p&gt;Here’s my Tableau viz:&lt;/p&gt;
-&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1759096613685&#39; style=&#39;position: relative&#39;&gt;
-  &lt;noscript&gt;
-    &lt;a href=&#39;#&#39;&gt;
-      &lt;img alt=&#39;Console Wars &#39;
-           src=&#39;https://public.tableau.com/static/images/se/sen_vs_gen_final/ConsoleWars/1_rss.png&#39;
-           style=&#39;border: none&#39; /&gt;
-    &lt;/a&gt;
-  &lt;/noscript&gt;
-  &lt;object class=&#39;tableauViz&#39; style=&#39;display:none;&#39;&gt;
-    &lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt;
-    &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt;
-    &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;
-    &lt;param name=&#39;name&#39; value=&#39;sen_vs_gen_final/ConsoleWars&#39; /&gt;
-    &lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;
-    &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;static_image&#39;
-           value=&#39;https://public.tableau.com/static/images/se/sen_vs_gen_final/ConsoleWars/1.png&#39; /&gt;
-    &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;language&#39; value=&#39;pt-BR&#39; /&gt;
-    &lt;param name=&#39;filter&#39; value=&#39;publish=yes&#39; /&gt;
-  &lt;/object&gt;
-&lt;/div&gt;
-&lt;script type=&#39;text/javascript&#39;&gt;
-  var divElement = document.getElementById(&#39;viz1759096613685&#39;);
-  var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];
-  if ( divElement.offsetWidth &gt; 800 ) {
-    vizElement.style.width=&#39;1500px&#39;; vizElement.style.height=&#39;1227px&#39;;
-  } else if ( divElement.offsetWidth &gt; 500 ) {
-    vizElement.style.width=&#39;1500px&#39;; vizElement.style.height=&#39;1227px&#39;;
-  } else {
-    vizElement.style.width=&#39;100%&#39;; vizElement.style.height=&#39;1827px&#39;;
-  }
-  var scriptElement = document.createElement(&#39;script&#39;);
-  scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-&lt;/script&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Console Wars</title>
-      <link>http://localhost:1313/post/embed-test/</link>
-      <pubDate>Sun, 28 Sep 2025 14:40:00 -0300</pubDate>
-      
-      <guid>http://localhost:1313/post/embed-test/</guid>
-      
-        <description>&lt;p&gt;Here’s my Tableau viz:&lt;/p&gt;
-&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1759096613685&#39; style=&#39;position: relative&#39;&gt;
-  &lt;noscript&gt;
-    &lt;a href=&#39;#&#39;&gt;
-      &lt;img alt=&#39;Console Wars &#39;
-           src=&#39;https://public.tableau.com/static/images/se/sen_vs_gen_final/ConsoleWars/1_rss.png&#39;
-           style=&#39;border: none&#39; /&gt;
-    &lt;/a&gt;
-  &lt;/noscript&gt;
-  &lt;object class=&#39;tableauViz&#39; style=&#39;display:none;&#39;&gt;
-    &lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt;
-    &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt;
-    &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;
-    &lt;param name=&#39;name&#39; value=&#39;sen_vs_gen_final/ConsoleWars&#39; /&gt;
-    &lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;
-    &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;static_image&#39;
-           value=&#39;https://public.tableau.com/static/images/se/sen_vs_gen_final/ConsoleWars/1.png&#39; /&gt;
-    &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;
-    &lt;param name=&#39;language&#39; value=&#39;pt-BR&#39; /&gt;
-    &lt;param name=&#39;filter&#39; value=&#39;publish=yes&#39; /&gt;
-  &lt;/object&gt;
-&lt;/div&gt;
-&lt;script type=&#39;text/javascript&#39;&gt;
-  var divElement = document.getElementById(&#39;viz1759096613685&#39;);
-  var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];
-  if ( divElement.offsetWidth &gt; 800 ) {
-    vizElement.style.width=&#39;1500px&#39;; vizElement.style.height=&#39;1227px&#39;;
-  } else if ( divElement.offsetWidth &gt; 500 ) {
-    vizElement.style.width=&#39;1500px&#39;; vizElement.style.height=&#39;1227px&#39;;
-  } else {
-    vizElement.style.width=&#39;100%&#39;; vizElement.style.height=&#39;1827px&#39;;
-  }
-  var scriptElement = document.createElement(&#39;script&#39;);
-  scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-&lt;/script&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Mermaid Diagrams in Hugo</title>
-      <link>http://localhost:1313/english/post/mermaid-test/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/english/post/mermaid-test/</guid>
-      
-        <description>Guide to Mermaid Diagrams in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Mermaid Diagrams in Hugo</title>
-      <link>http://localhost:1313/post/mermaid-test/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/mermaid-test/</guid>
-      
-        <description>Guide to Mermaid Diagrams in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>Curriculum Vitae</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
       
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+        <description>Professional CV / Resume page built with Hugo</description>
       
     </item>
     
     <item>
-      <title>About</title>
+      <title>Curriculum Vitae</title>
       <link>http://localhost:1313/english/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/english/about/</guid>
       
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+        <description>Professional CV / Resume page built with Hugo</description>
       
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/english/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Console Wars</title>
+      <link>http://localhost:1313/english/projects/console-wars/</link>
+      <pubDate>Sun, 28 Sep 2025 14:40:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/english/projects/</guid>
+      <guid>http://localhost:1313/english/projects/console-wars/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;I&amp;rsquo;ve a Tableau dashboard compairing the game sales of nintendo and sega in the 1990&amp;rsquo;s.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Console Wars</title>
+      <link>http://localhost:1313/projects/console-wars/</link>
+      <pubDate>Sun, 28 Sep 2025 14:40:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/projects/console-wars/</guid>
       
-        <description></description>
+        <description>&lt;p&gt;I&amp;rsquo;ve a Tableau dashboard compairing the game sales of nintendo and sega in the 1990&amp;rsquo;s.&lt;/p&gt;</description>
       
     </item>
     
