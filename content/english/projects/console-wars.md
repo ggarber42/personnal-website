@@ -3,7 +3,7 @@ title = "Console Wars"
 date = 2025-09-28T14:40:00-03:00
 draft = false
 tags = ["data-viz"]
-thumbnail = "images/landscape.jpg"
+thumbnail = "images/console_wars.png"
 +++
 
 I've a Tableau dashboard compairing the game sales of nintendo and sega in the 1990's.
