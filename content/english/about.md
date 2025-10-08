@@ -14,10 +14,10 @@ Software Developer transitioning to a more data-focused career.
 
 ## 📜 Certificates
 
-- **[Power BI](https://ead.fm2s.com.br/verify/8bfbe6e29b3121b5d73700842f222fbe40cfecc9)** - FM2S, 17 hours
-- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/ggarber42/scientific-computing-with-python-v7)**  – freeCodeCamp, 300 hours
-- **[Responsive Web Design](https://www.freecodecamp.org/certification/ggarber42/responsive-web-design)** - freeCodeCamp, 300 hours
-- **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ggarber42/javascript-algorithms-and-data-structures)** - freeCodeCamp, 300 hours
+- **<a href="https://ead.fm2s.com.br/verify/8bfbe6e29b3121b5d73700842f222fbe40cfecc9" target="_blank" rel="noopener noreferrer">Power BI</a>** – FM2S, 17 hours  
+- **<a href="https://www.freecodecamp.org/certification/ggarber42/scientific-computing-with-python-v7" target="_blank" rel="noopener noreferrer">Scientific Computing with Python</a>** – freeCodeCamp, 300 hours  
+- **<a href="https://www.freecodecamp.org/certification/ggarber42/responsive-web-design" target="_blank" rel="noopener noreferrer">Responsive Web Design</a>** – freeCodeCamp, 300 hours  
+- **<a href="https://www.freecodecamp.org/certification/ggarber42/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a>** – freeCodeCamp, 300 hours  
 
 ---
 
