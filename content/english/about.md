@@ -1,80 +1,67 @@
 +++
-title = "Curriculum Vitae"
+title = ""
 description = "Professional CV / Resume page built with Hugo"
 date = "2025-10-02"
 author = "Your Name"
 aliases = ["cv", "resume", "about-me"]
 +++
 
-# Your Name
+## 💼 Summary
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Phone:** +1 (123) 456-7890  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-**Website:** [yourwebsite.com](https://yourwebsite.com)
+Software Developer transitioning to a more data-focused career.
 
 ---
 
-## Summary
+## 📜 Certificates
 
-Experienced software developer specializing in Go, Python, and web technologies. Passionate about building performant, secure, and scalable applications. Strong background in static site generators, ETL pipelines, and modern web development.
+- **[Power BI](https://ead.fm2s.com.br/verify/8bfbe6e29b3121b5d73700842f222fbe40cfecc9)** - FM2S, 17 hours
+- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/ggarber42/scientific-computing-with-python-v7)**  – freeCodeCamp, 300 hours
+- **[Responsive Web Design](https://www.freecodecamp.org/certification/ggarber42/responsive-web-design)** - freeCodeCamp, 300 hours
+- **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ggarber42/javascript-algorithms-and-data-structures)** - freeCodeCamp, 300 hours
 
 ---
 
-## Skills
+## 🧠 Skills
 
 - **Programming:** Go, Python, TypeScript, JavaScript, SQL  
-- **Web:** Hugo, React, Next.js, HTML/CSS/SCSS  
-- **Data & ETL:** Spark, PostgreSQL, Kafka  
-- **Tools & DevOps:** Docker, Kubernetes, Git, CI/CD, AWS, Netlify  
-- **Other:** Unit testing, code review, mentoring, agile methodologies
+- **Data & ETL:** Spark, PostgreSQL, Kafka, MongoDB
+- **Tools & DevOps:** Docker, Kubernetes, Git, CI/CD, AWS  
 
 ---
 
-## Experience
+## 💻 Experience
 
-### Software Engineer | Company Name
+### Backend Engineer | Linx
 *Jan 2023 – Present*
 
-- Developed ETL pipelines using PySpark to process millions of records daily.  
-- Implemented microservices in Go with PostgreSQL and Redis for high-performance backend.  
-- Set up CI/CD pipelines using GitHub Actions and Docker for multiple services.
+- Implemented microservices in Go and TypeScript.  
+- SQL queries in Hive and PostgreSQL.  
+- Set up CI/CD pipelines using GitHub Actions and Docker for multiple services.  
+- Deployed and managed services on Kubernetes and cloud environments.  
 
-### Backend Developer | Another Company
-*Mar 2021 – Dec 2022*
+### Frontend Developer | Linx
+*Mar 2019 – Dec 2023*  
 
-- Maintained and improved Go microservices for product catalog and e-commerce services.  
-- Integrated Kafka consumers to process product events in near real-time.  
-- Optimized PostgreSQL queries and created indexing strategies to improve performance.
-
----
-
-## Education
-
-**Bachelor of Computer Science** – University Name  
-*2017 – 2021*
-
-- Relevant courses: Data Structures, Algorithms, Database Systems, Software Engineering  
-- Activities: Coding competitions, open source contributions
+- Developed frontend applications using Vue.js and other frameworks.  
+- Built scripts and CLI tools in Node.js using JavaScript.  
+- Identified and fixed frontend bugs to improve user experience and performance.  
 
 ---
 
-## Projects
+## 🎓 Education
 
-- **Personal Portfolio Website** – Built with Hugo + SCSS; deployed on Netlify.  
-- **ETL Platform** – Python + Spark pipelines processing transactional data into PostgreSQL.  
-- **Kafka Consumer Service** – NestJS service handling product events and updating DB/Redis.
-
----
-
-## Open Source & Contributions
-
-- [Hugo](https://github.com/gohugoio/hugo) – Contributed documentation and tutorials.  
-- [Other Project](https://github.com/username/project) – Added new features and fixed bugs.
+### **Federal Institute of Rio Grande do Sul (IFRS)**  
+**Bachelor’s Degree in Internet Systems**  
+*2018 – 2022*  
 
 ---
 
-## References
+### **The University of Queensland**  
+**BEng in Mechanical Engineering (Exchange – Science Without Borders Scholarship)**  
+*2014*  
 
-Available upon request.
+---
+
+### **Federal University of Rio Grande do Sul (UFRGS)**  
+**Bachelor’s Degree in Mechanical Engineering**  
+*2010 – 2016*
